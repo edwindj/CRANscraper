@@ -2,5 +2,5 @@ CRANscraper
 ===========
 
 
-A scrapy script for scraping package information (e.g. descriptions etc.) from (CRAN)[http://cran.r-project.org.
+A [scrapy](http://scrapy.org/) script for scraping package information (e.g. descriptions etc.) from [CRAN](http://cran.r-project.org).
 
